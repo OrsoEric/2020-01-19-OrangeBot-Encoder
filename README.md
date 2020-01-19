@@ -9,4 +9,5 @@ Encoder linear resolution is: 63.33um/cnt or 15.79 cnt/mm<br>
 Encoder rate at very slow speed 1mm/s is: 15.79Hz<br>
 Encoder rate at walk speed 1m/s is: 15.79KHz<br>
 Encoder rate at top speed 10m/s is: 150.8KHz<br>
-
+Current control system period is: 1ms<br>
+Encoder speed shown by the interface is in counts per ms.<br>
